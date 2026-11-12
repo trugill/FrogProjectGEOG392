@@ -1,0 +1,13 @@
+# Ignore contents of data folder, but keep the folder
+ASC/*
+!ASC/ASC_final_ave
+!ASC/ASC_selected_trimmed_range_best
+
+TIF/*
+
+# Ignore contents of Models folder, but keep the folder
+Models/*
+!Models/best/Eleutherodactylus_planirostris_avg.asc
+!Models/best/Eleutherodactylus_planirostris_avg.html
+!Models/global/Eleutherodactylus_planirostris_avg.asc
+!Models/global/Eleutherodactylus_planirostris_avg.html
