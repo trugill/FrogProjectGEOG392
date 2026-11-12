@@ -1,0 +1,129 @@
+<Layout name="NA" printResolution="300" units="mm" worldFileMap="{a20c1f1d-1a3a-43a7-ae77-36fb4f058ef1}">
+ <Snapper snapToGrid="0" snapToGuides="1" snapToItems="1" tolerance="5"/>
+ <Grid offsetUnits="mm" offsetX="0" offsetY="0" resUnits="mm" resolution="10"/>
+ <PageCollection>
+  <symbol alpha="1" clip_to_extent="1" force_rhr="0" frame_rate="10" is_animated="0" name="" type="fill">
+   <data_defined_properties>
+    <Option type="Map">
+     <Option name="name" type="QString" value=""/>
+     <Option name="properties"/>
+     <Option name="type" type="QString" value="collection"/>
+    </Option>
+   </data_defined_properties>
+   <layer class="SimpleFill" enabled="1" id="{379840a9-89e6-4f57-9bba-10ff4310739b}" locked="0" pass="0">
+    <Option type="Map">
+     <Option name="border_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+     <Option name="color" type="QString" value="255,255,255,255,rgb:1,1,1,1"/>
+     <Option name="joinstyle" type="QString" value="miter"/>
+     <Option name="offset" type="QString" value="0,0"/>
+     <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+     <Option name="offset_unit" type="QString" value="MM"/>
+     <Option name="outline_color" type="QString" value="35,35,35,255,rgb:0.1372549,0.1372549,0.1372549,1"/>
+     <Option name="outline_style" type="QString" value="no"/>
+     <Option name="outline_width" type="QString" value="0.26"/>
+     <Option name="outline_width_unit" type="QString" value="MM"/>
+     <Option name="style" type="QString" value="solid"/>
+    </Option>
+    <data_defined_properties>
+     <Option type="Map">
+      <Option name="name" type="QString" value=""/>
+      <Option name="properties"/>
+      <Option name="type" type="QString" value="collection"/>
+     </Option>
+    </data_defined_properties>
+   </layer>
+  </symbol>
+  <LayoutItem background="true" blendMode="0" excludeFromExports="0" frame="false" frameJoinStyle="miter" groupUuid="" id="" itemRotation="0" opacity="1" outlineWidthM="0.3,mm" position="0,0,mm" positionLock="false" positionOnPage="0,0,mm" referencePoint="0" size="297,210,mm" templateUuid="{a99bbb54-e4f3-413b-a777-15eb98ff9652}" type="65638" uuid="{a99bbb54-e4f3-413b-a777-15eb98ff9652}" visibility="1" zValue="0">
+   <FrameColor alpha="255" blue="0" green="0" red="0"/>
+   <BackgroundColor alpha="255" blue="255" green="255" red="255"/>
+   <LayoutObject>
+    <dataDefinedProperties>
+     <Option type="Map">
+      <Option name="name" type="QString" value=""/>
+      <Option name="properties"/>
+      <Option name="type" type="QString" value="collection"/>
+     </Option>
+    </dataDefinedProperties>
+    <customproperties>
+     <Option/>
+    </customproperties>
+   </LayoutObject>
+   <symbol alpha="1" clip_to_extent="1" force_rhr="0" frame_rate="10" is_animated="0" name="" type="fill">
+    <data_defined_properties>
+     <Option type="Map">
+      <Option name="name" type="QString" value=""/>
+      <Option name="properties"/>
+      <Option name="type" type="QString" value="collection"/>
+     </Option>
+    </data_defined_properties>
+    <layer class="SimpleFill" enabled="1" id="{2a1d7958-8ccb-42e7-ac13-f1b98e34f0ca}" locked="0" pass="0">
+     <Option type="Map">
+      <Option name="border_width_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+      <Option name="color" type="QString" value="255,255,255,255,rgb:1,1,1,1"/>
+      <Option name="joinstyle" type="QString" value="miter"/>
+      <Option name="offset" type="QString" value="0,0"/>
+      <Option name="offset_map_unit_scale" type="QString" value="3x:0,0,0,0,0,0"/>
+      <Option name="offset_unit" type="QString" value="MM"/>
+      <Option name="outline_color" type="QString" value="35,35,35,255,rgb:0.1372549,0.1372549,0.1372549,1"/>
+      <Option name="outline_style" type="QString" value="no"/>
+      <Option name="outline_width" type="QString" value="0.26"/>
+      <Option name="outline_width_unit" type="QString" value="MM"/>
+      <Option name="style" type="QString" value="solid"/>
+     </Option>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option name="name" type="QString" value=""/>
+       <Option name="properties"/>
+       <Option name="type" type="QString" value="collection"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </LayoutItem>
+  <GuideCollection visible="1"/>
+ </PageCollection>
+ <LayoutItem background="true" blendMode="0" drawCanvasItems="true" enableZRange="0" excludeFromExports="0" followPreset="false" followPresetName="" frame="false" frameJoinStyle="miter" groupUuid="" id="Map 1" isTemporal="0" itemRotation="0" keepLayerSet="false" labelMargin="0,mm" mapFlags="0" mapRotation="0" opacity="1" outlineWidthM="0.3,mm" position="-5.88936e-15,0,mm" positionLock="false" positionOnPage="-5.88936e-15,0,mm" referencePoint="0" size="297,210,mm" templateUuid="{a20c1f1d-1a3a-43a7-ae77-36fb4f058ef1}" type="65639" uuid="{a20c1f1d-1a3a-43a7-ae77-36fb4f058ef1}" visibility="1" zValue="1">
+  <FrameColor alpha="255" blue="0" green="0" red="0"/>
+  <BackgroundColor alpha="255" blue="255" green="255" red="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" type="QString" value=""/>
+     <Option name="properties"/>
+     <Option name="type" type="QString" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties>
+    <Option/>
+   </customproperties>
+  </LayoutObject>
+  <Extent xmax="2125654.72746576182544231" xmin="-1993546.52757266187109053" ymax="4580322.60481907334178686" ymin="1667756.0608525110874325"/>
+  <crs>
+   <spatialrefsys nativeFormat="Wkt">
+    <wkt>PROJCRS["WGS 84 / Equal Earth Americas",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],MEMBER["World Geodetic System 1984 (G2296)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["Equal Earth Americas",METHOD["Equal Earth",ID["EPSG",1078]],PARAMETER["Longitude of natural origin",-90,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Very small scale equal-area mapping - Americas-centred."],AREA["World centred on the Americas."],BBOX[-90,90.01,90,89.99]],ID["EPSG",8858]]</wkt>
+    <proj4>+proj=eqearth +lon_0=-90 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+    <srsid>60450</srsid>
+    <srid>520000450</srid>
+    <authid>EPSG:8858</authid>
+    <description>WGS 84 / Equal Earth Americas</description>
+    <projectionacronym>eqearth</projectionacronym>
+    <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+    <geographicflag>false</geographicflag>
+   </spatialrefsys>
+  </crs>
+  <LayerSet/>
+  <AtlasMap atlasDriven="0" margin="0.10000000000000001" scalingMode="2"/>
+  <labelBlockingItems/>
+  <atlasClippingSettings clippingType="1" enabled="0" forceLabelsInside="0" restrictLayers="0">
+   <layersToClip/>
+  </atlasClippingSettings>
+  <itemClippingSettings clipSource="" clippingType="1" enabled="0" forceLabelsInside="0"/>
+ </LayoutItem>
+ <customproperties>
+  <Option type="Map">
+   <Option name="atlasRasterFormat" type="QString" value="png"/>
+   <Option name="singleFile" type="bool" value="true"/>
+  </Option>
+ </customproperties>
+ <Atlas coverageLayer="" enabled="0" filenamePattern="'output_'||@atlas_featurenumber" filterFeatures="0" hideCoverage="0" pageNameExpression="" sortFeatures="0"/>
+</Layout>
