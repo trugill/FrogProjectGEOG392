@@ -1,0 +1,10 @@
+Points,ASCII file,Log Likelihood,Parameters,Sample Size,AIC score,AICc score,BIC score
+D:/Frogs/CSV/points.refined_trimdupes_grid.csv,D:/Frogs/Models/betas/Beta1.0/Eleutherodactylus_planirostris.asc,-20044.29118,103,2023,40294.58235,40305.7465,40872.65305
+D:/Frogs/CSV/points.refined_trimdupes_grid.csv,D:/Frogs/Models/betas/Beta1.5/Eleutherodactylus_planirostris.asc,-20121.2243,85,2023,40412.44861,40419.99636,40889.49724
+D:/Frogs/CSV/points.refined_trimdupes_grid.csv,D:/Frogs/Models/betas/Beta2.0/Eleutherodactylus_planirostris.asc,-20179.78259,86,2023,40531.56519,40539.29453,41014.22616
+D:/Frogs/CSV/points.refined_trimdupes_grid.csv,D:/Frogs/Models/betas/Beta2.5/Eleutherodactylus_planirostris.asc,-20233.22669,60,2023,40586.45339,40590.18428,40923.1936
+D:/Frogs/CSV/points.refined_trimdupes_grid.csv,D:/Frogs/Models/betas/Beta3.0/Eleutherodactylus_planirostris.asc,-20282.34803,61,2023,40686.69606,40690.55328,41029.04861
+D:/Frogs/CSV/points.refined_trimdupes_grid.csv,D:/Frogs/Models/betas/Beta3.5/Eleutherodactylus_planirostris.asc,-20325.92112,51,2023,40753.84223,40756.53325,41040.07141
+D:/Frogs/CSV/points.refined_trimdupes_grid.csv,D:/Frogs/Models/betas/Beta4.0/Eleutherodactylus_planirostris.asc,-20358.98924,46,2023,40809.97848,40812.16674,41068.14597
+D:/Frogs/CSV/points.refined_trimdupes_grid.csv,D:/Frogs/Models/betas/Beta4.5/Eleutherodactylus_planirostris.asc,-20390.68712,43,2023,40867.37425,40869.28632,41108.70473
+D:/Frogs/CSV/points.refined_trimdupes_grid.csv,D:/Frogs/Models/betas/Beta5.0/Eleutherodactylus_planirostris.asc,-20421.84128,42,2023,40927.68257,40929.50681,41163.40072

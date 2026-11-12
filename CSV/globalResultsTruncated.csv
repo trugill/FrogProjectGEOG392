@@ -1,0 +1,45 @@
+Species: Eleutherodactylus_planirostris,,,Bioclimatic Variable Key,,Contribution (%),,Permutation Importance,,Training Gain Without,,Training Gain With Only,
+#Training samples,2023,,bio_1,Annual Mean Temperature,bio_18,44.3447,bio_11,29.6613,bio_3,1.3565,bio_4,1.0712
+Regularized training gain,1.3652,,bio_2,Mean Diurnal Range,bio_8,16.4035,bio_17,18.1739,bio_8,1.359,bio_18,0.9419
+Unregularized training gain,1.4144,,bio_3,Isothermality,bio_4,16.3792,bio_8,7.4618,bio_5,1.3594,bio_11,0.8121
+Iterations,500,,bio_4,Temperature Seasonality,bio_17,5.9242,bio_4,6.8781,bio_17,1.3617,bio_8,0.8112
+Training AUC,0.9003,,bio_5,Max Temperature of Warmest Month,bio_6,3.5834,bio_16,6.0737,bio_18,1.3629,bio_3,0.7901
+#Background points,11911,,bio_6,Min Temperature of Coldest Month,bio_11,3.5643,bio_3,5.6825,bio_16,1.3635,bio_16,0.7771
+Entropy,8.0209,,bio_7,Temperature Annual Range,bio_13,2.8697,bio_5,5.4167,bio_4,1.3636,bio_7,0.7668
+Prevalence (average probability of presence over background sites),0.1244,,bio_8,Mean Temperature of Wettest Quarter,bio_9,2.146,bio_6,4.0406,bio_7,1.3636,bio_6,0.7402
+Fixed cumulative value 1 cumulative threshold,1,,bio_9,Mean Temperature of Driest Quarter,bio_5,2.1419,bio_9,3.7325,bio_9,1.3637,bio_13,0.7392
+Fixed cumulative value 1 Logistic threshold,0.0301,,bio_10,Mean Temperature of Warmest Quarter,bio_15,0.9974,bio_19,3.6401,bio_19,1.3639,bio_1,0.727
+Fixed cumulative value 1 area,0.3346,,bio_11,Mean Temperature of Coldest Quarter,bio_3,0.6189,bio_7,3.1005,bio_11,1.3642,bio_9,0.6789
+Fixed cumulative value 1 training omission,0.004,,bio_12,Annual Precipitation,bio_7,0.519,bio_13,2.4469,bio_13,1.3644,bio_17,0.6209
+Fixed cumulative value 5 cumulative threshold,5,,bio_13,Precipitation of Wettest Month,bio_2,0.2253,bio_18,2.0307,bio_12,1.3646,bio_14,0.524
+Fixed cumulative value 5 Logistic threshold,0.2137,,bio_14,Precipitation of Driest Month,bio_16,0.1062,bio_15,0.8881,bio_14,1.3647,bio_5,0.5022
+Fixed cumulative value 5 area,0.2242,,bio_15,Precipitation Seasonality,bio_19,0.075,bio_14,0.7074,bio_2,1.365,bio_10,0.4957
+Fixed cumulative value 5 training omission,0.0351,,bio_16,Precipitation of Wettest Quarter,bio_1,0.0705,bio_1,0.0653,bio_10,1.365,bio_19,0.4748
+Fixed cumulative value 10 cumulative threshold,10,,bio_17,Precipitation of Driest Quarter,bio_14,0.0307,bio_2,0,bio_6,1.3651,bio_12,0.4495
+Fixed cumulative value 10 Logistic threshold,0.3685,,bio_18,Precipitation of Warmest Quarter,bio_10,0,bio_10,0,bio_15,1.3651,bio_15,0.3663
+Fixed cumulative value 10 area,0.1944,,bio_19,Precipitation of Coldest Quarter,bio_12,0,bio_12,0,bio_1,1.3654,bio_2,0.1783
+Fixed cumulative value 10 training omission,0.0756,,,,,,,,,,,
+Minimum training presence cumulative threshold,0.0519,,,,,,,,,,,
+Minimum training presence Logistic threshold,0.0014,,,,,,,,,,,
+Minimum training presence area,0.5971,,,,,,,,,,,
+Minimum training presence training omission,0,,,,,,,,,,,
+10 percentile training presence cumulative threshold,12.2594,,,,,,,,,,,
+10 percentile training presence Logistic threshold,0.4055,,,,,,,,,,,
+10 percentile training presence area,0.1853,,,,,,,,,,,
+10 percentile training presence training omission,0.0999,,,,,,,,,,,
+Equal training sensitivity and specificity cumulative threshold,17.9653,,,,,,,,,,,
+Equal training sensitivity and specificity Logistic threshold,0.4687,,,,,,,,,,,
+Equal training sensitivity and specificity area,0.1667,,,,,,,,,,,
+Equal training sensitivity and specificity training omission,0.1666,,,,,,,,,,,
+Maximum training sensitivity plus specificity cumulative threshold,6.3723,,,,,,,,,,,
+Maximum training sensitivity plus specificity Logistic threshold,0.2758,,,,,,,,,,,
+Maximum training sensitivity plus specificity area,0.2135,,,,,,,,,,,
+Maximum training sensitivity plus specificity training omission,0.041,,,,,,,,,,,
+"Balance training omission, predicted area and threshold value cumulative threshold",1.7455,,,,,,,,,,,
+"Balance training omission, predicted area and threshold value Logistic threshold",0.0562,,,,,,,,,,,
+"Balance training omission, predicted area and threshold value area",0.2907,,,,,,,,,,,
+"Balance training omission, predicted area and threshold value training omission",0.0064,,,,,,,,,,,
+Equate entropy of thresholded and original distributions cumulative threshold,2.8671,,,,,,,,,,,
+Equate entropy of thresholded and original distributions Logistic threshold,0.0998,,,,,,,,,,,
+Equate entropy of thresholded and original distributions area,0.2555,,,,,,,,,,,
+Equate entropy of thresholded and original distributions training omission,0.0198,,,,,,,,,,,
