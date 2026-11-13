@@ -20,7 +20,6 @@ library.
 | ASC | NA | Holds ASCII files |
 | ASC_final_ave | ASC | Holds the ASCII files of each continent's projection from our best model |
 | ASC_selected_trimmed_range_best | ASC | Holds the ASCII files of the native range's ASC files (used to create final model within native range)|
-| (Sub)Folders | Main Folder | Description |
 | ASC | NA | Holds ASCII files |
 | ASC_final_ave | ASC | Holds the ASCII files of each continent's projection from our best model |
 | ASC_selected_trimmed_range_best | ASC | Holds the ASCII files of the native range's ASC files (used to create final model within native range)|
